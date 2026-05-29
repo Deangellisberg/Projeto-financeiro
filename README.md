@@ -9,21 +9,33 @@ O sistema realiza cálculos automáticos sobre lucros e perdas mensais, fornecen
 O programa realiza automaticamente:
 
 ✔ Total de meses analisados
+
 ✔ Total líquido de lucros/prejuízos
+
 ✔ Média dos lucros/perdas
+
 ✔ Média das mudanças mensais
+
 ✔ Maior aumento nos lucros
+
 ✔ Maior redução nos lucros
+
 
 🚀 Exemplo de Saída
 Análise Financeira
 ------------------------------
 Total de Meses: 86
+
 Total Líquido: R$38382578
+
 Média dos Lucros/Perdas: R$446309.05
+
 Média das Mudanças: R$-2315.12
+
 Maior Aumento nos Lucros: Feb-2012 (R$1926159)
+
 Maior Redução nos Lucros: Sep-2013 (R$-2196167)
+
 
 📋 Download e Instalação
 
@@ -105,5 +117,7 @@ Este projeto está sob a licença MIT.
 
 🎁 Agradecimentos
 Obrigado à comunidade Python 📚
+
 Projeto desenvolvido para fins educacionais 🚀
+
 Obrigado por visitar este repositório 💙
